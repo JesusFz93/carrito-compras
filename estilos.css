@@ -1,0 +1,12 @@
+body {
+    background-color: pink;
+  }
+
+.clase{
+    color:red;
+}
+
+.marco {
+ border: 1px black solid;
+ width: 300px;
+}
